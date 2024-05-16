@@ -4,4 +4,6 @@
 
 ## Reqruiment:
 ** pip install streamlit **
+
+## Run streamlit app
 ** streamlit run main.py**
