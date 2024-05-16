@@ -3,7 +3,7 @@
 
 
 ## Reqruiment:
-** pip install streamlit **
+**pip install streamlit**
 
 ## Run streamlit app
-** streamlit run main.py**
+**streamlit run main.py**
